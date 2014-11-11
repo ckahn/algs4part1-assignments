@@ -7,7 +7,7 @@ import java.util.NoSuchElementException;
  * structure. This class is implemented using a linked list.
  * <p>
  * This class satisfies the constraints defined 
- * <a href="http://coursera.cs.princeton.edu/algs4/assignments/queues.html>
+ * <a href="http://coursera.cs.princeton.edu/algs4/assignments/queues.html">
  * here</a>.
  */
 public class Deque<Item> implements Iterable<Item> {
